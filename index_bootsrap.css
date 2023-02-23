@@ -1,0 +1,93 @@
+h1{
+	color: rgba(146,105,58,255);
+}
+
+.navbar-brand{
+	
+	color: rgba(146,105,58,255);
+}
+
+
+.home{
+	color: rgba(206,168,131,255);
+	margin: 0;
+}
+
+.nav-link{
+	color: rgba(206,168,131,255);
+}
+
+.d-block w-100{
+	width: 200px;
+	height: 600px;
+}
+
+.disabled{
+	color: rgba(206,168,131,255);
+	margin: 0;
+}
+
+.carousel-control-prev{
+	color: rgba(206,168,131,255);
+}
+
+
+
+.btn-outline-success{
+	color: rgba(206,168,131,255);
+	border-color: carousel-control-prev;
+}
+
+
+.four{
+	display: flex;
+	justify-content: center;
+	margin: 50px;
+
+}
+
+.col{
+	border: 2px solid rgba(212, 136, 106, 0.8);
+	background-color: white;
+	height: 100px;
+}
+
+.column_text{
+	color: slategrey;
+
+}
+
+.row{
+	margin-bottom: 100px;
+}
+
+.card{
+	margin: 20px;
+	
+}
+
+.card:hover{
+	transform: scale(1.1);
+	transition: all 1s;
+}
+
+.carousel-control-prev: hover{
+	color: blue;
+	
+}
+
+.three{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.carousel-kitkat{
+	width: 900px;
+
+}
+
+.one{
+	display: flex;
+	justify-content: center;
+}
